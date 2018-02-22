@@ -1,0 +1,23 @@
+#floating-panel{
+  position: absolute;
+  margin-top:5px;
+  margin-left:6%;
+  background-color: #fff;
+  z-index: 5;
+}
+#map{
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 5%;
+}
+#legend {
+  background-color: #fff;
+  padding: 10px;
+  margin: 10px;
+}
+#legend h3 {
+  margin-top: 0;
+}
+#legend img {
+  vertical-align: middle;
+}
